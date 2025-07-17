@@ -1214,6 +1214,12 @@ h6 {
   font-size: 18px;
 }
 
+.hero p2 {
+  color: #161718;
+  margin-bottom: 30px;
+  font-size: 15px;
+}
+
 .hero .btn-get-started {
   font-family: var(--font-primary);
   font-weight: 400;
