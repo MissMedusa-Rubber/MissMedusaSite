@@ -1188,6 +1188,7 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
+  margin-top: 80px;
   width: 100%;
   min-height: 30vh;
   background: #000;
