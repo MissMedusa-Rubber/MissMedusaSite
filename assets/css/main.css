@@ -94,6 +94,15 @@ h6 {
   color: #fff;
 }
 
+.section-header p2 {
+  margin: 0;
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: #fff;
+}
+
 /*--------------------------------------------------------------
 # Page Header
 --------------------------------------------------------------*/
@@ -991,6 +1000,12 @@ h6 {
   margin: 15px 0 0 0;
 }
 
+.services .service-item p2 {
+  line-height: 24px;
+  font-size: 14px;
+  margin: 15px 0 0 0;
+}
+
 .services .service-item:hover:before {
   background: var(--color-primary);
   right: 0;
@@ -1185,7 +1200,7 @@ h6 {
   margin: 0 0 10px 0;
   font-size: 38px;
   font-weight: 700;
-  color: #161718;
+  color: #fff;
   font-family: var(--font-secondary);
 }
 
@@ -1208,7 +1223,7 @@ h6 {
 }
 
 .hero p {
-  color: #161718;
+  color: #fff;
   margin-bottom: 30px;
   font-size: 18px;
 }
