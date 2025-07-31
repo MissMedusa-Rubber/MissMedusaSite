@@ -597,6 +597,10 @@ h6 {
   color: var(--color-primary);
 }
 
+.about .content p2 {
+  color: #27a776;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
