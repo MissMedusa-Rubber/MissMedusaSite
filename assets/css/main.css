@@ -1239,6 +1239,12 @@ h6 {
   font-size: 10px;
 }
 
+.hero p3 {
+  color: #fff;
+  margin-bottom: 30px;
+  font-size: 10px;
+}
+
 .hero .btn-get-started {
   font-family: var(--font-primary);
   font-weight: 400;
