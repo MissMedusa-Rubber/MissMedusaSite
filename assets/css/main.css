@@ -119,6 +119,13 @@ h6 {
   font-family: var(--font-secondary);
 }
 
+.page-header h3 {
+  font-size: 23px;
+  font-weight: 500;
+  color: #fff;
+  font-family: var(--font-secondary);
+}
+
 @media (max-width: 768px) {
   .page-header h2 {
     font-size: 36px;
